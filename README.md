@@ -1,7 +1,8 @@
 # Interface Frontend
 
-![Upload Screen](upload/dashboard.png)
+![Upload Screen](images/upload.png)
 ![Dashboard Screenshot](images/dashboard.png)
+![Tables Screenshot](images/tables.png)
 
 This is the frontend for **Interface**, a file analysis application built with **Next.js**, **pnpm**, and **Shadcn UI**. It allows users to upload two files, analyze them, and view detailed reports on the dashboard.
 
